@@ -57,7 +57,7 @@ plt.imshow(thresh, cmap='gray')
 plt.title("Thresholded Image")
 plt.show()
 ```
-![Thresholded Image](intermidiate_images/Thresholdedimage.png)
+![Thresholded Image](intermidiate_images/thresholding_image.jpg)
 
 ## 3. Morphological Closing
 ### A morphological closing operation is applied to fill small gaps:
