@@ -1,2 +1,2 @@
-# ComputerVision
-All computer vision related work goes here
+# ComputerVision - Price Tag Extraction 
+
